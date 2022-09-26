@@ -17,6 +17,10 @@
 - 220620 : 발표 자료 작성 및 제출
 - 220621 : 발표 진행
 ####
+## Feedback
+- 다양한 시각화 진행 필요
+- 트리 기반 모델의 Feature importance를 통한 유의미한 feature 확인 과정 필요
+####
 ## Contents
 - Load data : data 용량 감소 후 로드 / 전반적인 정보 확인 및 결측치 파악
 - Data analysis : target / categorical / numerical 분류에 따라, 총 28개의 feature 상세 분석
