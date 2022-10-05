@@ -14,6 +14,6 @@
 #### ► [02_kaggle_nucleus_segmentation_220804]  
 - 중소벤처기업진흥공단 이어드림(Year-Dream) 스쿨 - 'Computer vision 트랙 미니 프로젝트' 진행
 - 2022.07.21(목)부터 08.04(목)까지, 개인 또는 팀으로 구성된 21개 조가 의료 및 자유 주제를 택하여 프로젝트 참여
-- 랜덤으로 발표 조를 별도 선정했으나, 운영진 추천으로 발표 진행
+- 랜덤으로 발표 조를 선정했으나, 운영진 추천으로 발표 진행
 - [kaggle_nucleus-segmentation_220804.pptx](https://docs.google.com/presentation/d/1PcXKoE6nQ933DHydfIq504HsOgMhW9sM/edit?usp=sharing&ouid=117128562660017358728&rtpof=true&sd=true)
 ####
