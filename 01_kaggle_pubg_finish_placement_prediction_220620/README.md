@@ -15,23 +15,23 @@
 
 ####
 ## Timeline
-- 220607~220611 : domain 파악을 위한 서칭 및 진행 pipeline 설정
-- 220612~220614 : 1차 코드 작성 완료
-- 220615 : 강사님과 피드백 면담 진행
-- 220615~220619 : 최종 코드 작성 완료
-- 220620 : 발표 자료 작성 및 제출
-- 220621 : 발표 진행
+- 220607~220611 - domain 파악을 위한 서칭 및 진행 pipeline 설정
+- 220612~220614 - 1차 코드 작성 완료
+- 220615 - 강사님과 피드백 면담 진행
+- 220615~220619 - 최종 코드 작성 완료
+- 220620 - 발표 자료 작성 및 제출
+- 220621 - 발표 진행
 ####
 ## Feedback
 - lineplot과 pie 외, 추가적인 시각화 방법 적용 필요
 - 트리 기반 모델의 feature importance를 통한 유의미한 feature 확인 과정 필요
 ####
 ## Contents
-- Load data : 데이터 용량 감소 후 로드 / 전반적인 정보 확인 및 결측치 파악
-- Data analysis : target / categorical / numerical 분류에 따라, 총 28개의 feature 상세 분석
-- Hypothesis testing : 6개의 가설 설정 및 검증 결과 도출
-- Feature engineering : data cleaning / feature selection 진행
-- Modeling / Evaluation : 경우의 수에 따른 model 생성 및 평가 진행
+- Load data - 데이터 용량 감소 후 로드 / 전반적인 정보 확인 및 결측치 파악
+- Data analysis - target / categorical / numerical 분류에 따라, 총 28개의 feature 상세 분석
+- Hypothesis testing - 6개의 가설 설정 및 검증 결과 도출
+- Feature engineering - data cleaning / feature selection 진행
+- Modeling / Evaluation - 경우의 수에 따른 model 생성 및 평가 진행
 ####
 ## Afterthoughts
 - 전 과정을 스스로 고민하고 구현하며 machine learning 진행 과정을 복습할 수 있었습니다.
