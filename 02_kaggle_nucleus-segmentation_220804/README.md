@@ -5,6 +5,13 @@
 - domain knowledge가 없는 분야의 주제를 선택해 새롭게 접하는 data 분석 경험 축적
 - Kaggle dataset을 핸들링 경험 축적
 ####
+## Stack
+-
+    <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
+    <img src="https://img.shields.io/badge/[ API ]-pycocotools-FF6600"/>
+    <img src="https://img.shields.io/badge/[ Algorithm ]-K--Means Clustering-FF6600"/><br>  
+
+####
 ## Timeline
 - 220721~220727 - CV 관련 사전 실습 진행 > 'dl-cv-practice' repository 참고
 - 220728~220730 - domain 파악을 위한 서칭 및 진행 pipeline 설정
