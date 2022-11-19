@@ -7,7 +7,7 @@
 ## Stack
 -
     <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / seaborn-4479A1"/>
-    <img src="https://img.shields.io/badge/[ Model ]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-00B388"/>
+    <img src="https://img.shields.io/badge/[ Model ]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-428813"/>
 
 -
     <div align="left"><img src="https://img.shields.io/badge/[ Data Visualization ]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-FF6600"/>
