@@ -6,12 +6,14 @@
 ####
 ## Stack
 -
-    <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / seaborn-4479A1"/>
+    <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / seaborn / sklearn / statsmodels-4479A1"/>
+
+-
     <img src="https://img.shields.io/badge/[ Model ]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-428813"/>
 
 -
     <div align="left"><img src="https://img.shields.io/badge/[ Data Visualization ]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-FF6600"/>
-    <img src="https://img.shields.io/badge/[ Data Analysis ]-Correlation-FF6600"/><br>  
+    <img src="https://img.shields.io/badge/[ Data Analysis ]-Correlation / Multicollinearity-FF6600"/><br>  
 
 ####
 ## Timeline
