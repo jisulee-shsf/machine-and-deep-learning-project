@@ -8,12 +8,11 @@
 -
     <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / seaborn / sklearn / statsmodels-4479A1"/>
 
--
-    <img src="https://img.shields.io/badge/[ Model ]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-428813"/>
+    <img src="https://img.shields.io/badge/[ Model ]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-FF6600"/>
 
 -
-    <div align="left"><img src="https://img.shields.io/badge/[ Data Visualization ]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-FF6600"/>
-    <img src="https://img.shields.io/badge/[ Data Analysis ]-Correlation / Multicollinearity-FF6600"/><br>  
+    <div align="left"><img src="https://img.shields.io/badge/[ Data Visualization ]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-428813"/>
+    <img src="https://img.shields.io/badge/[ Data Analysis ]-Correlation / Multicollinearity-428813"/><br>  
 
 ####
 ## Timeline
