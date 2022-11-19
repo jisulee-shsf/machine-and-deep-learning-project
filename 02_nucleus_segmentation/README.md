@@ -8,9 +8,11 @@
 ## Stack
 -
     <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
-    <img src="https://img.shields.io/badge/[ API ]-pycocotools-FF6600"/>
-    <img src="https://img.shields.io/badge/[ Algorithm ]-K--Means Clustering-FF6600"/><br>  
+    <img src="https://img.shields.io/badge/[ Computer vision ]-TensorFlow / OpenCV-FF6600"/>
 
+-
+    <div align="left"><img src="https://img.shields.io/badge/[ API ]-pycocotools-428813"/>
+    <img src="https://img.shields.io/badge/[ Algorithm ]-K--Means Clustering-428813"/><br> 
 ####
 ## Timeline
 - 220721~220727 - CV 관련 사전 실습 진행 > 'dl-cv-practice' repository 참고
