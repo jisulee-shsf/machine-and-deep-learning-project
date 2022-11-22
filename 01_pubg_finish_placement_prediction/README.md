@@ -29,7 +29,7 @@
 ####
 ## Contents
 - Load data - 데이터 용량 감소 후 로드 / 전반적인 정보 확인 및 결측치 파악
-- Data analysis - target / categorical / numerical 분류에 따라, 총 28개의 feature 상세 분석
+- Data analysis - target ・ categorical ・ numerical 분류에 따라, 총 28개의 feature 상세 분석
 - Hypothesis testing - 6개의 가설 설정 및 검증 결과 도출
 - Feature engineering - data cleaning / feature selection 진행
 - Modeling / Evaluation - 경우의 수에 따른 모델 생성 및 평가 진행
