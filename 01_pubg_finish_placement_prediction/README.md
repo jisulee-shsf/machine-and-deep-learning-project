@@ -1,6 +1,6 @@
 ####
 ## Objectives
-- 다양한 machine learning 모델을 활용해 modeling 전 과정을 스스로 구현
+- 다양한 machine learning 모델을 활용해 EDA에 집중한 modeling 전 과정을 스스로 구현
 - 도메인 지식이 없는 주제를 선택해 새롭게 접한 데이터에서 유의미한 insight를 찾는 분석 경험 축적
 - Kaggle dataset을 핸들링하는 경험 축적
 ####
