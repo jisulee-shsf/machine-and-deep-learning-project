@@ -6,8 +6,8 @@
 ####
 ## Stack
 -
-    <div align="left"><img src="https://img.shields.io/badge/[ Python ]-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
-    <img src="https://img.shields.io/badge/[ Computer vision ]-TensorFlow / OpenCV-FF6600"/>
+    <div align="left"><img src="https://img.shields.io/badge/[Python]-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
+    <img src="https://img.shields.io/badge/[Computer vision]-TensorFlow / OpenCV-FF6600"/>
 
 -
     <div align="left"><img src="https://img.shields.io/badge/[ API ]-pycocotools-428813"/>
