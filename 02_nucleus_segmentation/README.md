@@ -5,7 +5,7 @@
 - Kaggle dataset을 핸들링하는 경험 축적
 
 ####
-## Stack
+## Skills
 -
     <div align="left"><img src="https://img.shields.io/badge/[Python]-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
     <img src="https://img.shields.io/badge/[Computer vision]-TensorFlow / OpenCV-FF6600"/>
@@ -38,7 +38,7 @@
 ####
 ## Afterthoughts
 - COCO dataset 변환 과정을 통해 COCO format의 annotation 정보를 상세히 살펴볼 수 있었습니다.
-- 추출된 annotation 정보를 바탕으로 Instance Segmentation 진행 과정을 심도있게 실습할 수 있었습니다. 
+- 추출된 annotation 정보를 바탕으로 instance segmentation 진행 과정을 심도있게 실습할 수 있었습니다. 
 ####
 ## Reference
 - [[Kaggle] 2018 Data Science Bowl - Nucleus Segmentation](https://www.kaggle.com/competitions/data-science-bowl-2018)
