@@ -1,18 +1,18 @@
 ####
 ## Objectives
-- 다양한 머신러닝 모델을 활용해 모델링 전 과정을 스스로 구현
+- 다양한 machine learning 모델을 활용해 modeling 전 과정을 스스로 구현
 - 도메인 지식이 없는 분야의 주제를 선택하여, 새롭게 접하는 데이터 내에서 유의미한 insight를 찾는 분석 경험 축적
 - Kaggle dataset을 핸들링하는 경험 축적
 ####
-## Stack
+## Skills
 -
     <div align="left"><img src="https://img.shields.io/badge/[Python]-NumPy / pandas / matplotlib / seaborn / sklearn / statsmodels-4479A1"/>
 
     <img src="https://img.shields.io/badge/[Model]-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-FF6600"/>
 
 -
-    <div align="left"><img src="https://img.shields.io/badge/[Data Visualization]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-428813"/>
-    <img src="https://img.shields.io/badge/[Data Analysis]-Correlation / Multicollinearity-428813"/><br>  
+    <div align="left"><img src="https://img.shields.io/badge/[Data Analysis]-Correlation / Multicollinearity-428813"/>
+    <img src="https://img.shields.io/badge/[Data Visualization]-displot / scatterplot / lineplot / barplot / heatmap / msno.bar & matrix-428813"/><br>  
 
 ####
 ## Timeline
