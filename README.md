@@ -5,7 +5,7 @@
 ####
 ## Projects
 #### ► [01_pubg_finish_placement_prediction]
-- 이어드림 스쿨 - Machine Learning, Modeling 프로젝트
+- 이어드림 스쿨 - Machine Learning ・ Modeling 프로젝트
 - 사용자의 Final Stats를 예측하는 Regression Analysis 과제
 - 개인 또는 팀 40개 조 중, 우수 프로젝트로 선정되어 발표 진행
 - 📌 [PUBG finish placement prediction](https://drive.google.com/file/d/1yz26V0NXY0HELWS6SWk5FwKcWXonJ9Jc/view?usp=share_link)
