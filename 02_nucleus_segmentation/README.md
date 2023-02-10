@@ -23,7 +23,7 @@
 - create a dataframe - image_id / image & mask 경로 / cluster 정보 포함된 dataframe 생성
 - visualize the data - cluster(stainded ・ bright-field ・ fluorescence)에 따른 시각화 진행
 - find and draw contours - 단일 mask에 대한 외곽선 정보 추출 연습
-- get nnotation information - 전체 mask의 polygon & bounding box 정보 추출 로직 함수화
+- get anotation information - 전체 mask의 polygon & bounding box 정보 추출 로직 함수화
 - convert the dataset to COCO format - 추출된 annotation 정보를 활용해 COCO format 변환 로직 함수화
 - visualize the data using pycocotools - COCO API를 활용해 instance segementation 시각화 진행
 <img src="https://user-images.githubusercontent.com/109773795/183776882-572ee620-287c-4867-8b63-01ac0c32370c.png" width="950" height="150"/>
