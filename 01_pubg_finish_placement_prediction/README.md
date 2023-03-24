@@ -1,5 +1,5 @@
 ####
-# PUBG Finish Placement Prediction
+# [Kaggle] PUBG Finish Placement Prediction
 ### Description
 - 2022.06.07 ~ 2022.06.21 프로젝트 진행
 - 이어드림 스쿨 | machine learning - modeling 개인 프로젝트 
