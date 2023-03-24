@@ -1,5 +1,5 @@
 ####
-# Nucleus Segmentation 
+# [Kaggle] Nucleus Segmentation 
 ### Description
 - 2022.07.21 ~ 2022.08.05 프로젝트 진행
 - 이어드림 스쿨 | computer vision 트랙 개인 프로젝트
