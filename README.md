@@ -15,7 +15,7 @@
 - data cleaning 및 feature selection 진행
 - 경우의 수에 따른 모델 생성 및 평가 진행
 ####
-#### 📌 [주요 기술]
+#### 📌 [기술 스택]
 - <img src="https://img.shields.io/badge/Python-NumPy / pandas / matplotlib / seaborn / sklearn / statsmodels-4479A1"/>
 - <img src="https://img.shields.io/badge/model-LinearRegression / Ridge / Lasso / ElasticNet / RandomForestRegressor / XGBRegressor-4479A1"/>
 - <img src="https://img.shields.io/badge/data analysis-regression / correlation / multicollinearity-FF6600"/>
@@ -38,7 +38,7 @@
 - 추출된 annotation 정보를 COCO format으로 변환하는 로직 함수화
 - COCO API를 사용해 instance segmentation 시각화 진행
 ####
-#### 📌 [주요 기술]
+#### 📌 [기술 스택]
 -
     <div align="left"><img src="https://img.shields.io/badge/Python-NumPy / pandas / matplotlib / sklearn / cv2-4479A1"/>
 -
@@ -49,4 +49,4 @@
 #### 📌 [시각화 결과]
 |<img src="https://user-images.githubusercontent.com/109773795/183776882-572ee620-287c-4867-8b63-01ac0c32370c.png" width="950" height="150"/><img src="https://user-images.githubusercontent.com/109773795/183776651-838bf36e-336c-4bb2-86e0-2031f8f1a663.png" width="950" height="150"/>|
 |:---:|
-##
+####
